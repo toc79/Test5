@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow only this files
+!*.sql
+!*.prg
+!*.cs
+!*.xml
+!*.gitignore
+
+# Allow directories to be included for scanning
+!*/
