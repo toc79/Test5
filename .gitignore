@@ -12,3 +12,5 @@
 
 # Allow directories to be included for scanning
 !*/
+
+Folder isključiti/
