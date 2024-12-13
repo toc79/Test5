@@ -8,6 +8,7 @@
 !*.xml
 !*.gitignore
 !*.txt
+!*.mrt
 
 # Allow directories to be included for scanning
 !*/
