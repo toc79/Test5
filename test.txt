@@ -1,1 +1,3 @@
 testna datoteka
+
+DOrada datoteke u githubu
