@@ -7,6 +7,7 @@
 !*.cs
 !*.xml
 !*.gitignore
+!*.txt
 
 # Allow directories to be included for scanning
 !*/
